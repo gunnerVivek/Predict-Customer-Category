@@ -24,9 +24,9 @@ customer_frequency_score | a score based on how many times in a day the customer
 customer_product_variation_score |	a score based on how many varities of products does a customer search for, for ex. electronics, apparels, etc.|
 customer_order_score	| Score based on the no. of orders that has been succesfully delivered and not returned
 customer_affinity_score	| an internal overall score calculated which signifies the affinity of the customer towards the website |
-customer_category	(**Target**)| the cluster/group to which the customer should belong to |
 customer_active_segment | the categorization of the customers based on their activity |
 X_1 |	Anonymized feature based on loyalty of the customer |
+customer_category	(**Target**)| the cluster/group to which the customer should belong to |
 
 ### Data Files:
 
